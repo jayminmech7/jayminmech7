@@ -22,7 +22,7 @@ Jira • Planview • MS Project • SAP • ERP Systems
 
 ## 🚀 Featured Projects
 
-### 🔍 [SQL EDA Project](https://github.com/jayminmech7/sql-eda-project)
+### 🔍 [SQL EDA Project](https://github.com/jayminmech7/sql-exploratory-data-analysis-project)
 EDA using SQL Server + SSMS with modular scripts for trends, segmentation, rankings, and performance metrics.
 
 ### 📊 [Sales & Customer KPI Dashboard](https://public.tableau.com/app/profile/jaymin.patel5404/viz/SalesCustomerDashboards_17486554759860/SalesDashboard)
