@@ -3,7 +3,7 @@
 🎓 **Master’s in Business Analytics**, Montclair State University (GPA: 4.0/4.0)  
 📍 Based in NY, Open to Remote / Hybrid / Onsite Roles | OPT Eligible  
 📈 Data Analyst • Business Intelligence • Workflow Automation  
-📫 [jaymin.mech7@gmail.com](mailto:jaymin.mech7@gmail.com)
+📫 [jaymin.mech9@gmail.com](mailto:jaymin.mech9@gmail.com)
 
 ---
 
